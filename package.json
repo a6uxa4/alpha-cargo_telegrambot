@@ -1,0 +1,11 @@
+{
+  "name": "alpha_telegrambot",
+  "version": "1.0.0",
+  "description": "alpha_telegrambot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
